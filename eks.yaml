@@ -6,5 +6,5 @@ metadata:
 managedNodeGroups:
 - name: spot
   instanceTypes: ["c3.large","c4.large","c5.large","c5d.large","c5n.large","c5a.large"]
-  spot= true
+  spot: true
   desiredCapacity: 2
